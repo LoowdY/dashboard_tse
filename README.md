@@ -54,5 +54,15 @@ Esses erros são visualizados em um gráfico de barras, comparando as duas métr
 
 - **Correlação de Variáveis:** O heatmap de correlação permite identificar variáveis fortemente correlacionadas, oferecendo uma visão clara das inter-relações entre diferentes características dos candidatos.
 
-## Conslusão
+## Conclusão
 Este dashboard serve como uma ferramenta poderosa para a análise exploratória de dados eleitorais, fornecendo uma interface amigável para visualizações gráficas e treinamento de modelos de regressão. Com suas funcionalidades interativas, o usuário pode obter insights significativos sobre o perfil dos candidatos e usar modelos preditivos para avaliar diferentes variáveis com eficiência.
+
+## Acesse o Dashboard
+Você pode acessar o dashboard através do seguinte link: [Dashboard Eleitoral](https://tse-dashboard.streamlit.app/)
+
+## Participantes:
+1 - João Renan Lopes
+2 - Carlos Egger
+
+## Agradecimentos
+Agradeço ao professor Pedro Girotto pelo incentivo na matéria de estatística, o que foi fundamental para a criação deste projeto.
