@@ -61,7 +61,7 @@ Este dashboard serve como uma ferramenta poderosa para a análise exploratória 
 Você pode acessar o dashboard através do seguinte link: [Dashboard Eleitoral](https://tse-dashboard.streamlit.app/)
 
 ## Participantes:
-1 - João Renan Lopes
+1 - João Renan Lopes  
 2 - Carlos Egger
 
 ## Agradecimentos
