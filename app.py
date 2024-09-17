@@ -231,4 +231,15 @@ def main():
 
 # Rodar a função principal
 if __name__ == "__main__":
+    st.set_page_config(
+    page_title="TSE - Dashboard",
+    page_icon="🗳️",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    menu_items={
+        'Get Help': 'https://github.com/LoowdY/dashboard_tse',
+        'Report a bug': 'https://github.com/LoowdY/dashboard_tse',
+        'About': 'Este é um dashboard desenvolvido para análise eleitoral usando Streamlit.'
+    }
+)
     main()
