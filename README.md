@@ -58,7 +58,7 @@ Esses erros são visualizados em um gráfico de barras, comparando as duas métr
 Este dashboard serve como uma ferramenta poderosa para a análise exploratória de dados eleitorais, fornecendo uma interface amigável para visualizações gráficas e treinamento de modelos de regressão. Com suas funcionalidades interativas, o usuário pode obter insights significativos sobre o perfil dos candidatos e usar modelos preditivos para avaliar diferentes variáveis com eficiência.
 
 ## Acesse o Dashboard
-Você pode acessar o dashboard através do seguinte link: [Dashboard Eleitoral](https://tse-dashboard.streamlit.app/)
+Você pode acessar o dashboard através do seguinte link: [Dashboard Eleitoral](https://dashboard-tse-ia.streamlit.app/)
 
 ## Participantes:
 1 - João Renan Lopes  
