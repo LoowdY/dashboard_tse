@@ -19,7 +19,7 @@ A interface oferece uma ampla gama de visualizações gráficas, permitindo que 
 - **Taxa de Candidatos Casados e Solteiros:** Exibe as taxas de estado civil dos candidatos por partido.
 - **Heatmap de Correlação:** Permite a visualização de correlações entre variáveis numéricas selecionadas, facilitando a identificação de possíveis relações entre as variáveis.
 - **Scatter Plot (Gráfico de Dispersão):** Oferece uma análise visual da relação entre duas variáveis numéricas selecionadas.
-- **Séries Temporais:** Exibe a evolução de uma variável numérica ao longo do tempo.
+- **Inteligência Artificial:** Criação de Modelos de Machine learning com parametrização de argumentos do modelo.   
 
 ### 3. **Treinamento de Modelos de Regressão**
 O dashboard também oferece uma seção dedicada ao treinamento de modelos de regressão com diferentes algoritmos de aprendizado de máquina. Os modelos disponíveis incluem:
