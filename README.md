@@ -5,13 +5,10 @@ O dashboard tem como objetivo fornecer uma análise abrangente e interativa sobr
 
 ## Funcionalidades Principais
 
-### 1. **Carregamento de Dados**
-O dashboard permite o carregamento automático de dados no formato CSV, que são então exibidos diretamente na barra lateral. Isso facilita a visualização completa das informações sem precisar navegar por outros elementos da interface.
-
-### 2. **Download de Dados**
+### 1. **Download de Dados**
 O usuário tem a opção de baixar o conjunto de dados completo diretamente em formato CSV. Essa funcionalidade é útil para quem deseja uma cópia local dos dados analisados ou quem quer realizar análises externas adicionais.
 
-### 3. **Visualizações Personalizadas**
+### 2. **Visualizações Personalizadas**
 A interface oferece uma ampla gama de visualizações gráficas, permitindo que o usuário selecione qual aspecto dos dados deseja explorar. As opções incluem:
 
 - **Distribuição de Gênero (Feminino):** Exibe a distribuição média de candidatas do gênero feminino por partido.
@@ -24,7 +21,7 @@ A interface oferece uma ampla gama de visualizações gráficas, permitindo que 
 - **Scatter Plot (Gráfico de Dispersão):** Oferece uma análise visual da relação entre duas variáveis numéricas selecionadas.
 - **Séries Temporais:** Exibe a evolução de uma variável numérica ao longo do tempo.
 
-### 4. **Treinamento de Modelos de Regressão**
+### 3. **Treinamento de Modelos de Regressão**
 O dashboard também oferece uma seção dedicada ao treinamento de modelos de regressão com diferentes algoritmos de aprendizado de máquina. Os modelos disponíveis incluem:
 
 - **Random Forest Regressor**
@@ -33,10 +30,10 @@ O dashboard também oferece uma seção dedicada ao treinamento de modelos de re
 
 O usuário pode selecionar o algoritmo desejado, ajustar seus hiperparâmetros (como profundidade de árvores e número de estimadores), e definir as variáveis explicativas e a variável alvo. Essa funcionalidade permite prever a taxa de candidatas do gênero feminino com base em variáveis como idade média, estado civil, cor/raça, e bens declarados.
 
-### 5. **Remoção de Outliers**
+### 4. **Remoção de Outliers**
 Para melhorar a precisão dos modelos, o dashboard oferece uma funcionalidade de remoção de outliers utilizando o algoritmo Isolation Forest. O nível de contaminação pode ser ajustado pelo usuário, o que possibilita controlar o impacto dos valores extremos nos resultados.
 
-### 6. **Avaliação do Modelo**
+### 5. **Avaliação do Modelo**
 Após o treinamento, os modelos são avaliados com base em duas métricas de erro:
 
 - **MSE (Mean Squared Error)**
